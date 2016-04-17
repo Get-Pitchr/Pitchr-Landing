@@ -9029,21 +9029,9 @@
 	/*# sourceMappingURL=style.css.map */
 
 	.app-store {
-	  display: inline;
 	  vertical-align: top;
 	  border:1px solid white;
 	  border-radius:6px;
 	  box-sizing:border-box;
 	  height:45px;
-	}
-
-	.client-row {
-		display: table;
-		width: 100%;
-	}
-
-	.client {
-		float: none;
-	    display: table-cell;
-	    vertical-align: middle;
 	}
